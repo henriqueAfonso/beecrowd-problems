@@ -1,5 +1,5 @@
 # beecrowd-problems
-Repository containing my solutions to some beecrowd problems presented as homework.
+Repository containing my solutions in C99 to some beecrowd problems presented as homework.
 
 Each file has in its name the code to the beecrowd problem.
 
